@@ -1,0 +1,4 @@
+Python is fun
+I am learning Python
+File handling is important
+I added this later
